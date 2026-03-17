@@ -62,6 +62,9 @@ body::before {
     font-weight: 700;
     border: none;
     margin-top: 2rem;
+    &:hover{
+        background-color: #041832;
+    }
 }
 
 .container__texto {
